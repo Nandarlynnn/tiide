@@ -1,1 +1,1 @@
-web: gunicorn hello:myyapp --log-file=-
+web: gunicorn hello:weapp --log-file=-
